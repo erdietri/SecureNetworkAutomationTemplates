@@ -1,5 +1,5 @@
 # SecureNetworkAutomationTemplates
-There's plenty of repeatablity in network automation; so why should we all write the same scripts separately, from scratch? This repository contains a library of single-file network automation templates that follow secure code practices. Choose one as a skeleton for your next network automation project, or use them as context when working with an AI agent.
+There's plenty of repeatablity in network automation; so why should we all write the same scripts separately, from scratch? This repository contains a library of single-file network automation templates that follow secure code practices in Python. Choose one as a skeleton for your next network automation project, or use them as context when working with an AI agent.
 
 ## Additional Resources
 * For template walkthroughs and automation challenges, subscribe to my Substack: https://substack.com/@erikathedev
